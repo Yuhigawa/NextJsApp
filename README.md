@@ -3,6 +3,7 @@
 ```bash
 
 > git clone 
+> cd nextjsapp
 > npm install
 > npm run dev
 
