@@ -2,7 +2,7 @@
 
 ```bash
 
-> git clone 
+> git clone https://github.com/Yuhigawa/NextJsApp.git
 > cd nextjsapp
 > npm install
 > npm run dev
